@@ -1,6 +1,6 @@
 # Assignments
 
-[Assignment week 2](https://github.com/BryanHellings/Assignments/blob/master/Assignment%202%20tekstdocumentdocx.docx)
+[Assignment week 2](https://github.com/BryanHellings/Assignments/blob/master/Assignment_week_2.ipynb)
 
 [Assignment week 4]()
 
